@@ -1,6 +1,6 @@
 # Pavement Cell Segmentation
 
-This repository contains the implementation of the research paper titled **"A Simple Approach to Pavement Cell Segmentation"** by Rostislav Shepel, Andrew Romanowski, and Mario Valerio Giuffrida.
+This repository contains the implementation of the research paper titled **"A Simple Approach to Pavement Cell Segmentation"** by Rostislav Shepel, Andres Romanowski, and Mario Valerio Giuffrida.
 
 ## Abstract
 
@@ -69,5 +69,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 For any questions or issues, please contact:
 
 - Rostislav Shepel: [efyrs5@nottingham.ac.uk](mailto:efyrs5@nottingham.ac.uk)
-- Andrew Romanowski: [andres.romanowski@wur.nl](mailto:andres.romanowski@wur.nl)
+- Andres Romanowski: [andres.romanowski@wur.nl](mailto:andres.romanowski@wur.nl)
 - Mario Valerio Giuffrida: [valerio.giuffrida@nottingham.ac.uk](mailto:valerio.giuffrida@nottingham.ac.uk)
